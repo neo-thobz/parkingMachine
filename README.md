@@ -1,6 +1,6 @@
 # parkingMachine
 
-##How to run the program
+## How to run the program
 
 1. Open a command prompt window and go to the directory where the file is saved -> parkingMachine/src/com/thobz/Main.java
 2. Type 'javac Main.java'
